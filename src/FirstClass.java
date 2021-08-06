@@ -8,7 +8,9 @@ public class FirstClass {
 
     // Faruk tried again
 
-    // hi justt checking
+
+    //hi here
+
     // just try
     // try branch
 
@@ -18,6 +20,6 @@ public class FirstClass {
 
 
     // probably last commit today
-    // definitely the last comment
+
 
 }
