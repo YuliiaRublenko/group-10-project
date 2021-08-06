@@ -1,4 +1,4 @@
-package B23_Faruk;
+package B23_Group10_Faruk;
 
 public class Forgot_Password {
     // for the users who forgot password to reset
