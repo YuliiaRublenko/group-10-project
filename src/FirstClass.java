@@ -2,7 +2,6 @@ public class FirstClass {
 //some work
 //some more work
     public static void main(String[] args) {
-        //typing main code
         //and second part
 
         //typing main code
