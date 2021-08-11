@@ -5,6 +5,9 @@ public class FirstClass {
         //typing main code
         //and second part
 
+        //typing main code
+        //and second part
+
     }
 
     // Faruk tried again
